@@ -1,0 +1,9 @@
+name: stringmlst-nf
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3
+  - stringmlst=0.6.3
+  - fastp=0.20.1
